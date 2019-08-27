@@ -22,9 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/gI3o7cV.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src='https://i.imgur.com/oe2woxH.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 I found it difficult to understand what was going on with Intents. I had trouble at first getting the constants from MainActivity to be usable in EditActivity. 
