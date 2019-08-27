@@ -21,6 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OzZSLdq"><a href="//imgur.com/a/OzZSLdq">Codepen2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <img src='https://i.imgur.com/oe2woxH.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
