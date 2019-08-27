@@ -22,13 +22,17 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/l9xqILg' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Notes
+I found it difficult to understand what was going on with Intents. I had trouble at first getting the constants from MainActivity to be usable in EditActivity. 
+
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2019] [Lopez]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
