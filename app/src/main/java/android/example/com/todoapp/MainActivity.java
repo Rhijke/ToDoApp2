@@ -38,6 +38,6 @@ public class MainActivity extends AppCompatActivity {
         etNewItem.setText("");
 
         Toast.makeText(getApplicationContext(), "Item added to list.", Toast.LENGTH_SHORT).show();
-        
+
     }
 }
