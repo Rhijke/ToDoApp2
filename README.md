@@ -16,14 +16,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected in the todo list
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/OzZSLdq"><a href="//imgur.com/a/OzZSLdq">Codepen2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src='https://i.imgur.com/oe2woxH.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='imgur.com/a/OzZSLdq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 I found it difficult to understand what was going on with Intents. I had trouble at first getting the constants from MainActivity to be usable in EditActivity. 
