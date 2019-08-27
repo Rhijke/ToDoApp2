@@ -21,7 +21,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://i.imgur.com/gI3o7cV.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/gI3o7cV.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 I found it difficult to understand what was going on with Intents. I had trouble at first getting the constants from MainActivity to be usable in EditActivity. 
